@@ -7,6 +7,6 @@ for i in range(1,len(symbol_list)+1):
 
 
 if symbol_list == new_symbol_list:
-    print('The word is a palindrome')
+    print('The word is a palindrome_2')
 else:
-    print('The word is not a palindrome')
+    print('The word is not a palindrome_2')

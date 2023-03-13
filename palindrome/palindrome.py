@@ -12,6 +12,6 @@ def is_poly(string):
 
 string_to_test = input('Enter the string: ')
 if is_poly(string_to_test):
-    print('A string can be turned into a palindrome')
+    print('A string can be turned into a palindrome_2')
 else:
-    print("A string can't be turned into a palindrome")
+    print("A string can't be turned into a palindrome_2")

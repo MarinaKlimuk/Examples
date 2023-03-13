@@ -27,5 +27,5 @@ for i_nums in range(0,len(nums)):
 
 
 print('Original list:', nums)
-print('How many numbers must be added to make a palindrome:', len(answer))
+print('How many numbers must be added to make a palindrome_2:', len(answer))
 print ('List of these numbers:', answer)
