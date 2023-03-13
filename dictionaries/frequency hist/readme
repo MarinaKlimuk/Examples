@@ -1,0 +1,4 @@
+At first, the program creates a dictionary from the text there the key is a symbol, the value is a 
+frequency of how often the symbol occurs in the text. 
+The second dictionary is inverted to the first one. The key is a frequency, 
+the value is a list of corresponding symbols.  
